@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm Roshan Jha</h1>
-<h2 align="center">A passionate full stack developer from India</h2>
+<h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47amiq1cpp4f7ocmepjfmoghszrvpbb1j3zlulnhn5&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshanjha280&label=Profile%20views&color=0e75b6&style=flat" alt="roshanjha280" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshanjha280" alt="roshanjha280" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rohan_dsouza292" target="blank"><img src="https://img.shields.io/twitter/follow/rohan_dsouza292?logo=twitter&style=for-the-badge" alt="rohan_dsouza292" /></a> </p>
+- 🔭 I’m currently working on [Certificate Based Security using USB token](Private Repo)
+
+- 👯 I’m collaborating on [Polaris (IIT Bhilai)](https://polaris.iitbhilai.ac.in/)
 
 - 👨‍💻 All of my projects are available at [https://roshanjha280.github.io/roshan_jha.github.io/](https://roshanjha280.github.io/roshan_jha.github.io/)
 
-- 💬 Ask me about **Java, Spring, Spring Boot, MVC, C, C++, NodeJs, SQL, NoSql, NodeJs**
+- 💬 Ask me about **Java, Spring, Spring Boot, MVC, C, C++, NodeJs, SQL, NoSql**
 
 - 📫 How to reach me **roshanjha280@gmail.com**
 
@@ -31,4 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roshanjha280&show_icons=true&locale=en" alt="roshanjha280" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshanjha280&" alt="roshanjha280" /></p>
+
 

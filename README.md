@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roshan Jha</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="280" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47amiq1cpp4f7ocmepjfmoghszrvpbb1j3zlulnhn5&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+<h2 align="center">A passionate full stack developer from India</h2>
+<img align="right" alt="Coding" width="200" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47amiq1cpp4f7ocmepjfmoghszrvpbb1j3zlulnhn5&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshanjha280&label=Profile%20views&color=0e75b6&style=flat" alt="roshanjha280" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://roshanjha280.github.io/roshan_jha.github.io/](https://roshanjha280.github.io/roshan_jha.github.io/)
 
-- 💬 Ask me about **Java, Spring, Spring Boot, MVC, C, C++, NodeJs, SQL, NoSql**
+- 💬 Ask me about **Java, Spring, Spring Boot, MVC, C, C++, NodeJs, SQL, NoSql, NodeJs**
 
 - 📫 How to reach me **roshanjha280@gmail.com**
 

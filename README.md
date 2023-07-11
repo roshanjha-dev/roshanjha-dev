@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roshan Jha</h1>
 <h2 align="center">A passionate full stack developer from India</h2>
-<img align="center" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47amiq1cpp4f7ocmepjfmoghszrvpbb1j3zlulnhn5&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47amiq1cpp4f7ocmepjfmoghszrvpbb1j3zlulnhn5&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshanjha280&label=Profile%20views&color=0e75b6&style=flat" alt="roshanjha280" /> </p>
 

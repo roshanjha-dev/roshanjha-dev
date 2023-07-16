@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Java, Spring, Spring Boot, MVC, C, C++, NodeJs, SQL, NoSql**
 
-- 📫 How to reach me **roshanjha280@gmail.com**
+- 📫 Reach me **roshanjha280@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1rzZJq9XNci9SKJ7CDTZg3gICltLlBI_O/view?usp=drive_link](https://drive.google.com/file/d/1rzZJq9XNci9SKJ7CDTZg3gICltLlBI_O/view?usp=drive_link)
 

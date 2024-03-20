@@ -12,13 +12,13 @@
 
 - 👯 I’m collaborating on [Polaris (IIT Bhilai)](https://polaris.iitbhilai.ac.in/)
 
-- 👨‍💻 All of my projects are available at [https://roshanjha280.github.io/roshan_jha.github.io/](https://roshanjha280.github.io/roshan_jha.github.io/)
+- 👨‍💻 All of my projects are available at [https://roshanjha-dev.github.io/roshan_jha.github.io/](https://roshanjha-dev.github.io/roshan_jha.github.io/)
 
 - 💬 Ask me about **Java, Spring, Spring Boot, MVC, C, C++, NodeJs, SQL, NoSql**
 
 - 📫 Reach me **roshanjha280@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rzZJq9XNci9SKJ7CDTZg3gICltLlBI_O/view?usp=drive_link](https://drive.google.com/file/d/1rzZJq9XNci9SKJ7CDTZg3gICltLlBI_O/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1nXvH2nwxh33X30pbybncWKnM4ovL100C/view?usp=sharing](https://drive.google.com/file/d/1nXvH2nwxh33X30pbybncWKnM4ovL100C/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
